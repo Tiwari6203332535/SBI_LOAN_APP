@@ -7,3 +7,10 @@ bug-130
 string s = "hi how are you"
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
+ 
+bug-120
+<web-app>
+int i = 10;
+  <display-name>Archetype Created Web Application</display-name>
+</web-app>
+
